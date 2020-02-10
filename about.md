@@ -7,5 +7,5 @@ I am a Health Researcher in Townsville QLD, Australia. My research interests ran
 ## Contact
 
 
-Researchgate https://www.researchgate.net/profile/Amy_Brown6?ev=hdr_xprf&_sg=OMBPUkGvk7pDBwqf3MFpnWJ13LQxQMI7AmFCtg8Wd52-b_9zKulOqAIPxvVALMcp1b6kbo12eWpNRztxRxyeHwLE
-ORCID https://orcid.org/0000-0003-4520-2485
+[Researchgate](https://www.researchgate.net/profile/Amy_Brown6?ev=hdr_xprf&_sg=OMBPUkGvk7pDBwqf3MFpnWJ13LQxQMI7AmFCtg8Wd52-b_9zKulOqAIPxvVALMcp1b6kbo12eWpNRztxRxyeHwLE)
+[ORCID](https://orcid.org/0000-0003-4520-2485)
