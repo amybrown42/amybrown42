@@ -4,7 +4,7 @@ author: Amy Brown
 
 #logo: /assets/img/logo.png
 show_downloads: false
-#google_analytics:
+google_analytics: UA-158196156-1
 theme: jekyll-theme-minimal
 
 timezone: Australia/Brisbane
