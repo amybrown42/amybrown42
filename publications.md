@@ -1,3 +1,7 @@
+---
+title: Publications
+---
+
 # Peer reviewed journal articles
 
 - one
