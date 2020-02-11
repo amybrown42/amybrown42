@@ -3,10 +3,40 @@
 
 @import "{{ site.theme }}";
 
+// Make survey link noticable
 .survey-link {
   border-radius: 1em;
   padding: .5em;
   background-color: aquamarine;
   font-size: xx-large;
   font-weight: bold;
+}
+
+// Restyle navigation links in header section
+header {
+  ul {
+    height: unset;
+    background: unset;
+    border-radius: unset;
+    border: unset;
+    width: unset;
+  }
+
+  li {
+    width: unset;
+    float: unset;
+    border-right: unset;
+    height: unset;
+  }
+
+  ul li + li + li {
+    border-right: unset;
+    width: unset;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  header li, header ul li + li + li {
+    width: unset;
+  }
 }
