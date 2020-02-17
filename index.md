@@ -6,7 +6,7 @@ title: Welcome
 
 If you are seeking to participate in the Preferences for Image-Guidance survey please click here:
 
-<a href="#" class="survey-link">ENTER SURVEY</a>
+<a href="https://b1.surveyengine.com/survey/3854/4664" class="survey-link">ENTER SURVEY</a>
 
 # Latest
 
