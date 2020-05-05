@@ -4,13 +4,9 @@ title: Welcome
 
 # Preferences for Image-Guidance Survey
 
-We are currently updating the survey, and anticipate it being available again on Wednesday the 6th of May. Please check back then.
-
-<!--
 If you are seeking to participate in the Preferences for Image-Guidance survey please click here:
 
-<a href="#" class="survey-link">ENTER SURVEY</a>
--->
+<a href="https://b1.surveyengine.com/survey/4046/5035" class="survey-link">ENTER SURVEY</a>
 
 # Latest
 
