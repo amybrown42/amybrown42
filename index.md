@@ -2,11 +2,7 @@
 title: Welcome
 ---
 
-# Preferences for Image-Guidance Survey
 
-The Preferences for Image-Guidance survey has closed and responses are being analysed.
-Summary results will be posted here soon.
-Thanks to all who participated!
 
 
 # Latest
